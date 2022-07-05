@@ -40,9 +40,10 @@
 - Replacing scores for 9th graders at Thomas High School with "Not a Number" removes those scores from future calculations. Those scores are ignored rather than placing zeros, which would greatly impact the average scores. 
 
 ### Impact of Replacing 9th Grade Scores
-![image](https://user-images.githubusercontent.com/104038813/177378546-cb2644bc-66dc-41ac-834d-e31cdaaa866f.png)
+![image](https://user-images.githubusercontent.com/104038813/177378725-dccbd4f4-fe93-41a1-b383-c9b268f9a459.png)
 
-![image](https://user-images.githubusercontent.com/104038813/177378500-2f4eaef0-30e2-4f54-9fbb-afb7b0ce1da9.png)
+![image](https://user-images.githubusercontent.com/104038813/177378793-ef713dcb-a2a9-46d5-8571-903ac3b9bd21.png)
+
 
 - From the above images, 9th grade Math scores from Thomas High School were replaced with NaN 
 
