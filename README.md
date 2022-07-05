@@ -46,11 +46,19 @@
 
 
 - From the above images, 9th grade Math scores from Thomas High School were replaced with NaN 
+- The same was done to reading scores for 9th graders at Thomas High School.
+
+- Scores based on School Spending 
+![image](https://user-images.githubusercontent.com/104038813/177379240-f3222570-2c7f-4a85-ad9b-37a0cd0a70f2.png)
 
 
+- Scores by School Size 
 
+![image](https://user-images.githubusercontent.com/104038813/177379337-bbd3dc50-37de-49ee-bd1a-da7e8ddbb3ae.png)
 
- 
+- Scores by School Type
+
+![image](https://user-images.githubusercontent.com/104038813/177379426-d04a82eb-cc4d-47eb-a7d6-58ab1d4c19b1.png)
 
 
 ## Challenge Summary
