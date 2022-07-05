@@ -32,6 +32,8 @@
 ![image](https://user-images.githubusercontent.com/104038813/177373506-12db1a92-0982-4af5-8e1d-da92855284c6.png)
 - Updated School Summary 
 ![image](https://user-images.githubusercontent.com/104038813/177373810-8bfb2270-a421-4e8c-8709-6006c7767c96.png)
+- Because of the way I updated the data, only data from Thomas High School would be affected. 
+- All other schools data remained untouched, so the data would not change. 
 
 
 
