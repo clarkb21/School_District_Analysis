@@ -64,4 +64,10 @@
 
 ## Challenge Summary
 
-Four 
+Four changes to the original district summary after replacing 9th grade scores from Thomas High School with "NaN"
+1. Averages for math and reading changed slightly 
+2. 9th Grade scores were removed, not affecting all other data
+3. Total students was not affected in the summary page, but total students was changed to affect not using 9th grade scores in the percentage calculations. 
+4. Scores by school type changed slightly since Thomas High School was a charter school. 
+
+- Data didn't appear to change significantly after replacing scores because there were less than 500 9th grade students in a data set of over 39,000 students. 
