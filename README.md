@@ -26,7 +26,8 @@
 ![image](https://user-images.githubusercontent.com/104038813/177370862-4ba4c646-53ad-4eb7-9682-1d47cc996313.png)
 
 - Changing the data from Thomas High School did not affect the total number of schools, students, or the budget. 
-- Based on the images above, the data for reading and math scores was also unchanged. 
+- Based on the images above, the data for average math score changed slightly, and average reading score did not change.
+- Since the changes to the averages was so small, the % Passing Categories did not reflect much change, either.
 
 ### Was School Summary Affected? 
 - Original School Summary 
