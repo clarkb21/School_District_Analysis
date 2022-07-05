@@ -1,7 +1,10 @@
 # School District Analysis
 
 ## Project Overview
-- 
+- Analyze data on student funding and student test scores
+- Breakdown math and reading scores based on grade, school, and school type
+- Tasked to aggregate the data and showcase trends in school performance
+- Present data to school board to assist in making decisions regarding school budget allotments
 
 ## Resources
 - Data Source: schools_complete.csv; students_complete.csv
