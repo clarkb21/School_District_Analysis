@@ -22,6 +22,7 @@
 - Original District Summary
 ![image](https://user-images.githubusercontent.com/104038813/177370423-c22614f5-0789-4a12-9d05-acaa8293c4ae.png)
 - Updated District Summary
+
 ![image](https://user-images.githubusercontent.com/104038813/177370862-4ba4c646-53ad-4eb7-9682-1d47cc996313.png)
 
 - Changing the data from Thomas High School did not affect the total number of schools, students, or the budget. 
