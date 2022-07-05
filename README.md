@@ -49,6 +49,7 @@
 - The same was done to reading scores for 9th graders at Thomas High School.
 
 - Scores based on School Spending 
+
 ![image](https://user-images.githubusercontent.com/104038813/177379240-f3222570-2c7f-4a85-ad9b-37a0cd0a70f2.png)
 
 
