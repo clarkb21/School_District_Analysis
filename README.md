@@ -37,6 +37,10 @@
 - Because of the way I updated the data, only data from Thomas High School would be affected. 
 - All other schools data remained untouched, so the data would not change. 
 
+- Replacing scores for 9th graders at Thomas High School with "Not a Number" removes those scores from future calculations. Those scores are ignored rather than placing zeros, which would greatly impact the average scores. 
+
+### Impact of Replacing 9th Grade Scores
+
 
 
 
